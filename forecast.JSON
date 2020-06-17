@@ -1,0 +1,20 @@
+{
+    "forecast":[ {
+        "Monday" : {
+            "description" : "sunny",
+            "maxTemp":22,
+            "minTemp":20,
+            "windSpeed":12,
+            "danger": false
+        },
+        "Tuesday" : {
+            "description" : "Cloudy",
+            "maxTemp":19,
+            "minTemp":10,
+            "windSpeed":9,
+            "danger": false
+        },
+        "Wednesday" : null
+    }
+    ]
+}

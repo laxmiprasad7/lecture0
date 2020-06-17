@@ -1,0 +1,3 @@
+//GET https://reqres.in/api/users
+//OPTIONS http://restful.dev/wp-json/wp/v2/posts
+OPTIONS https://www.transdirect.com.au/api/bookings/v4
